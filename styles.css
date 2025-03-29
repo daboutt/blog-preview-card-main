@@ -91,9 +91,9 @@ body {
 .heading-1:hover {
   color: #f4d04e;
 }
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 480px) {
   .card {
-    width: 327px;
+    width: 70vw;
     box-shadow: 10px 10px black;
   }
 }
